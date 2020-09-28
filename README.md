@@ -1,2 +1,2 @@
-# MA4072-Pembelajaran-Mendalam-Deep-Learning-
-This repository contains all of assignments during Deep Learning Course at my major department.
+# Prediksi Harga Saham Menggunakan Convolutional Neural Networks
+Project prediksi harga saham menggunakan CNN ini merupakan tugas akhir semester saya saat mengambil mata kuliah Deep Learning saat saya masih berkuliah di Matematika ITB.
